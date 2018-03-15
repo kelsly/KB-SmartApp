@@ -1,0 +1,14 @@
+D:\s4-SAD\Labo\week3\sad-week3\NMCT.Resto\NMCT.Resto.Core\bin\Debug\NMCT.Resto.Core.dll
+D:\s4-SAD\Labo\week3\sad-week3\NMCT.Resto\NMCT.Resto.Core\bin\Debug\NMCT.Resto.Core.pdb
+D:\s4-SAD\Labo\week3\sad-week3\NMCT.Resto\NMCT.Resto.Core\bin\Debug\MvvmCross.Binding.dll
+D:\s4-SAD\Labo\week3\sad-week3\NMCT.Resto\NMCT.Resto.Core\bin\Debug\MvvmCross.Core.dll
+D:\s4-SAD\Labo\week3\sad-week3\NMCT.Resto\NMCT.Resto.Core\bin\Debug\MvvmCross.Localization.dll
+D:\s4-SAD\Labo\week3\sad-week3\NMCT.Resto\NMCT.Resto.Core\bin\Debug\MvvmCross.Platform.dll
+D:\s4-SAD\Labo\week3\sad-week3\NMCT.Resto\NMCT.Resto.Core\bin\Debug\MvvmCross.Binding.pdb
+D:\s4-SAD\Labo\week3\sad-week3\NMCT.Resto\NMCT.Resto.Core\bin\Debug\MvvmCross.Core.pdb
+D:\s4-SAD\Labo\week3\sad-week3\NMCT.Resto\NMCT.Resto.Core\bin\Debug\MvvmCross.Localization.pdb
+D:\s4-SAD\Labo\week3\sad-week3\NMCT.Resto\NMCT.Resto.Core\bin\Debug\MvvmCross.Platform.pdb
+D:\s4-SAD\Labo\week3\sad-week3\NMCT.Resto\NMCT.Resto.Core\obj\Debug\NMCT.Resto.Core.csprojResolveAssemblyReference.cache
+D:\s4-SAD\Labo\week3\sad-week3\NMCT.Resto\NMCT.Resto.Core\obj\Debug\NMCT.Resto.Core.csproj.CoreCompileInputs.cache
+D:\s4-SAD\Labo\week3\sad-week3\NMCT.Resto\NMCT.Resto.Core\obj\Debug\NMCT.Resto.Core.dll
+D:\s4-SAD\Labo\week3\sad-week3\NMCT.Resto\NMCT.Resto.Core\obj\Debug\NMCT.Resto.Core.pdb
