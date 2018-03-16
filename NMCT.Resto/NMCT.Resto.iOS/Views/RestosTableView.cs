@@ -30,6 +30,7 @@ namespace NMCT.Resto.iOS
             MvxFluentBindingDescriptionSet<RestosTableView, RestosTableViewModel> set
                 = new MvxFluentBindingDescriptionSet<RestosTableView, RestosTableViewModel>(this);
             set.Bind(_restosTableViewSource).To(vm => vm.RestosList);
+            set.Bind(_restosTableViewSource).For(src => src.SelectionChangedCommand).To(vm => vm.NavigateToDetailCommand);
             set.Apply();
 
         }

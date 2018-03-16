@@ -26,6 +26,12 @@ namespace NMCT.Resto.CoreM.ViewModels
 
             TabReviewVM.ParentViewModel = this;
 
+            //GetRestaurantData();
+        }
+
+        public async void Init(Guid restaurantId)
+        {
+            this.RestaurantContent = await _restoDataService.GetRestaurantById(restaurantId);
             GetRestaurantData();
         }
 
@@ -42,8 +48,8 @@ namespace NMCT.Resto.CoreM.ViewModels
 
         public async void GetRestaurantData()
         {
-            var restolist = await _restoDataService.GetRestaurants();
-            RestaurantContent = restolist[13];
+            //var restolist = await _restoDataService.GetRestaurants();
+            //RestaurantContent = restolist[13];
             RestaurantContent.Reviews = await _restoDataService.GetReviews(RestaurantContent.Id);
             RaisePropertyChanged(() => RestaurantContent);
 

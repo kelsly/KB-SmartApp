@@ -33,6 +33,11 @@ namespace NMCT.Resto.CoreM.Services
 
         }
 
+        public async Task<Restaurant> GetRestaurantById(Guid restoId)
+        {
+            return await _restaurantRepository.GetRestaurantDetails(restoId);
+        }
+
         public async Task<List<Restaurant>> GetRestaurants()
         {
             return await _restaurantRepository.GetRestaurants();

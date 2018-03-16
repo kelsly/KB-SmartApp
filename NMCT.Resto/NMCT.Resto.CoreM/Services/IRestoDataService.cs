@@ -13,5 +13,6 @@ namespace NMCT.Resto.CoreM.Services
         Task<Restaurant> GetRandomRestaurant();
         Task<List<Review>> GetReviews(Guid restoId);
         Task<bool> AddReview(Guid restoId, Review review);
+        Task<Restaurant> GetRestaurantById(Guid restoId);
     }
 }

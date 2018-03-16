@@ -31,5 +31,18 @@ namespace NMCT.Resto.CoreM.ViewModels
             set { _restoslist = value; RaisePropertyChanged(() => RestosList); }
         }
 
+        public MvxCommand<Restaurant> NavigateToDetailCommand
+        {
+
+            get
+            {
+                return new MvxCommand<Restaurant>(
+                    selectedRestaurant =>
+                    {
+                        ShowViewModel<RestoTabsViewModel>(new { restaurantId = selectedRestaurant.Id });
+                    }
+                    );
+            }
+        }
     }
 }

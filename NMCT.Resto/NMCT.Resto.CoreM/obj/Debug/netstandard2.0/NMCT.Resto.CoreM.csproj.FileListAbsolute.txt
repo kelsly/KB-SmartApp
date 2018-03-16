@@ -33,3 +33,4 @@ D:\Private\Documents\School\SAD\Labo\me\KB-SmartApp\NMCT.Resto\NMCT.Resto.CoreM\
 D:\Private\Documents\School\SAD\Labo\me\KB-SmartApp\NMCT.Resto\NMCT.Resto.CoreM\obj\Debug\netstandard2.0\NMCT.Resto.CoreM.AssemblyInfo.cs
 D:\Private\Documents\School\SAD\Labo\me\KB-SmartApp\NMCT.Resto\NMCT.Resto.CoreM\obj\Debug\netstandard2.0\NMCT.Resto.CoreM.dll
 D:\Private\Documents\School\SAD\Labo\me\KB-SmartApp\NMCT.Resto\NMCT.Resto.CoreM\obj\Debug\netstandard2.0\NMCT.Resto.CoreM.pdb
+D:\Private\Documents\School\SAD\Labo\me\KB-SmartApp\NMCT.Resto\NMCT.Resto.CoreM\obj\Debug\netstandard2.0\NMCT.Resto.CoreM.csprojResolveAssemblyReference.cache
